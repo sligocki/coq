@@ -1,0 +1,3 @@
+
+
+Inductive (X : Set) (T : 
